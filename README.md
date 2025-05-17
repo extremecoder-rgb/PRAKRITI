@@ -1,4 +1,4 @@
-=# PRAKRITI - Urban Nature Zine
+ PRAKRITI - Urban Nature Zine
 
 ![PRAKRITI](https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=800&auto=format&fit=crop&q=60)
 
@@ -141,8 +141,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - Unsplash for nature photography
-- TWK Lausanne for custom fonts
-- All contributors and supporters of the project
 
 ---
 
